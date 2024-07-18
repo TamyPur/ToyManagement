@@ -1,0 +1,269 @@
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\Server.dll.config
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\Server.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\Server.pdb
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\csc.exe
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\csc.exe.config
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\csc.rsp
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\csi.exe
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\csi.exe.config
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\csi.rsp
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\Microsoft.Managed.Core.targets
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\System.AppContext.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\System.Collections.Immutable.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\System.Console.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\System.Globalization.Calendars.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\System.IO.Compression.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\System.IO.FileSystem.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\System.Net.Http.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\System.Net.Sockets.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\System.Reflection.Metadata.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\System.ValueTuple.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\System.Xml.XmlDocument.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\System.Xml.XPath.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\vbc.exe
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\vbc.exe.config
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\vbc.rsp
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\VBCSCompiler.exe
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\roslyn\VBCSCompiler.exe.config
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\Antlr3.Runtime.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\EntityFramework.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\EntityFramework.SqlServer.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\Microsoft.Web.Infrastructure.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\Newtonsoft.Json.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\System.Web.Helpers.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\System.Web.Mvc.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\System.Web.Optimization.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\System.Web.Razor.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\System.Web.WebPages.Deployment.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\System.Web.WebPages.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\System.Web.WebPages.Razor.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\WebGrease.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\EntityFramework.xml
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\EntityFramework.SqlServer.xml
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\System.Web.Helpers.xml
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\System.Web.Mvc.xml
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\System.Web.Optimization.xml
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\System.Web.Razor.xml
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\System.Web.WebPages.xml
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\System.Web.WebPages.Deployment.xml
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\System.Web.WebPages.Razor.xml
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\Newtonsoft.Json.xml
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\Antlr3.Runtime.pdb
+C:\תכנות\תיק עבודות\Toys\Server\Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\תכנות\תיק עבודות\Toys\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\תכנות\תיק עבודות\Toys\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\תכנות\תיק עבודות\Toys\Server\Server\obj\Debug\Server.csproj.CopyComplete
+C:\תכנות\תיק עבודות\Toys\Server\Server\obj\Debug\Server.dll
+C:\תכנות\תיק עבודות\Toys\Server\Server\obj\Debug\Server.pdb
+C:\Users\1\Desktop\Server\Server\bin\Server.dll.config
+C:\Users\1\Desktop\Server\Server\bin\Server.dll
+C:\Users\1\Desktop\Server\Server\bin\Server.pdb
+C:\Users\1\Desktop\Server\Server\bin\roslyn\csc.exe
+C:\Users\1\Desktop\Server\Server\bin\roslyn\csc.exe.config
+C:\Users\1\Desktop\Server\Server\bin\roslyn\csc.rsp
+C:\Users\1\Desktop\Server\Server\bin\roslyn\csi.exe
+C:\Users\1\Desktop\Server\Server\bin\roslyn\csi.exe.config
+C:\Users\1\Desktop\Server\Server\bin\roslyn\csi.rsp
+C:\Users\1\Desktop\Server\Server\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\1\Desktop\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\1\Desktop\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\1\Desktop\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\1\Desktop\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\1\Desktop\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\1\Desktop\Server\Server\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\1\Desktop\Server\Server\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\1\Desktop\Server\Server\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\1\Desktop\Server\Server\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\1\Desktop\Server\Server\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\1\Desktop\Server\Server\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\1\Desktop\Server\Server\bin\roslyn\System.AppContext.dll
+C:\Users\1\Desktop\Server\Server\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\1\Desktop\Server\Server\bin\roslyn\System.Console.dll
+C:\Users\1\Desktop\Server\Server\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\1\Desktop\Server\Server\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\1\Desktop\Server\Server\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\1\Desktop\Server\Server\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\1\Desktop\Server\Server\bin\roslyn\System.IO.Compression.dll
+C:\Users\1\Desktop\Server\Server\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\1\Desktop\Server\Server\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\1\Desktop\Server\Server\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\1\Desktop\Server\Server\bin\roslyn\System.Net.Http.dll
+C:\Users\1\Desktop\Server\Server\bin\roslyn\System.Net.Sockets.dll
+C:\Users\1\Desktop\Server\Server\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\1\Desktop\Server\Server\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\1\Desktop\Server\Server\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\1\Desktop\Server\Server\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\1\Desktop\Server\Server\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\1\Desktop\Server\Server\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\1\Desktop\Server\Server\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\1\Desktop\Server\Server\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\1\Desktop\Server\Server\bin\roslyn\System.ValueTuple.dll
+C:\Users\1\Desktop\Server\Server\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\1\Desktop\Server\Server\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\1\Desktop\Server\Server\bin\roslyn\System.Xml.XPath.dll
+C:\Users\1\Desktop\Server\Server\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\1\Desktop\Server\Server\bin\roslyn\vbc.exe
+C:\Users\1\Desktop\Server\Server\bin\roslyn\vbc.exe.config
+C:\Users\1\Desktop\Server\Server\bin\roslyn\vbc.rsp
+C:\Users\1\Desktop\Server\Server\bin\roslyn\VBCSCompiler.exe
+C:\Users\1\Desktop\Server\Server\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\1\Desktop\Server\Server\bin\Antlr3.Runtime.dll
+C:\Users\1\Desktop\Server\Server\bin\EntityFramework.dll
+C:\Users\1\Desktop\Server\Server\bin\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\Server\Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\1\Desktop\Server\Server\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\1\Desktop\Server\Server\bin\Newtonsoft.Json.dll
+C:\Users\1\Desktop\Server\Server\bin\System.Web.Helpers.dll
+C:\Users\1\Desktop\Server\Server\bin\System.Web.Mvc.dll
+C:\Users\1\Desktop\Server\Server\bin\System.Web.Optimization.dll
+C:\Users\1\Desktop\Server\Server\bin\System.Web.Razor.dll
+C:\Users\1\Desktop\Server\Server\bin\System.Web.WebPages.Deployment.dll
+C:\Users\1\Desktop\Server\Server\bin\System.Web.WebPages.dll
+C:\Users\1\Desktop\Server\Server\bin\System.Web.WebPages.Razor.dll
+C:\Users\1\Desktop\Server\Server\bin\WebGrease.dll
+C:\Users\1\Desktop\Server\Server\bin\EntityFramework.xml
+C:\Users\1\Desktop\Server\Server\bin\EntityFramework.SqlServer.xml
+C:\Users\1\Desktop\Server\Server\bin\System.Web.Helpers.xml
+C:\Users\1\Desktop\Server\Server\bin\System.Web.Mvc.xml
+C:\Users\1\Desktop\Server\Server\bin\System.Web.Optimization.xml
+C:\Users\1\Desktop\Server\Server\bin\System.Web.Razor.xml
+C:\Users\1\Desktop\Server\Server\bin\System.Web.WebPages.xml
+C:\Users\1\Desktop\Server\Server\bin\System.Web.WebPages.Deployment.xml
+C:\Users\1\Desktop\Server\Server\bin\System.Web.WebPages.Razor.xml
+C:\Users\1\Desktop\Server\Server\bin\Newtonsoft.Json.xml
+C:\Users\1\Desktop\Server\Server\bin\Antlr3.Runtime.pdb
+C:\Users\1\Desktop\Server\Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\1\Desktop\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Server\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\1\Desktop\Server\Server\obj\Debug\Server.dll
+C:\Users\1\Desktop\Server\Server\obj\Debug\Server.pdb
+C:\תכנות\ToysManagement\serverSide\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\תכנות\ToysManagement\serverSide\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\תכנות\ToysManagement\serverSide\Server\Server\obj\Debug\Server.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\obj\Debug\Server.pdb
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\Server.dll.config
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\Server.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\Server.pdb
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\csc.exe
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\csc.exe.config
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\csc.rsp
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\csi.exe
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\csi.exe.config
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\csi.rsp
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\Microsoft.Managed.Core.targets
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\System.AppContext.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\System.Collections.Immutable.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\System.Console.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\System.Globalization.Calendars.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\System.IO.Compression.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\System.IO.FileSystem.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\System.Net.Http.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\System.Net.Sockets.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\System.Reflection.Metadata.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\System.ValueTuple.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\System.Xml.XmlDocument.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\System.Xml.XPath.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\vbc.exe
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\vbc.exe.config
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\vbc.rsp
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\VBCSCompiler.exe
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\roslyn\VBCSCompiler.exe.config
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\Antlr3.Runtime.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\EntityFramework.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\EntityFramework.SqlServer.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\Microsoft.Web.Infrastructure.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\Newtonsoft.Json.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\System.Web.Helpers.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\System.Web.Mvc.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\System.Web.Optimization.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\System.Web.Razor.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\System.Web.WebPages.Deployment.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\System.Web.WebPages.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\System.Web.WebPages.Razor.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\WebGrease.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\EntityFramework.xml
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\EntityFramework.SqlServer.xml
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\System.Web.Helpers.xml
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\System.Web.Mvc.xml
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\System.Web.Optimization.xml
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\System.Web.Razor.xml
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\System.Web.WebPages.xml
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\System.Web.WebPages.Deployment.xml
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\System.Web.WebPages.Razor.xml
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\Newtonsoft.Json.xml
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\Antlr3.Runtime.pdb
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\תכנות\ToysManagement\serverSide\Server\Server\obj\Debug\Server.csproj.CopyComplete
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\Newtonsoft.Json.Bson.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\System.Buffers.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\System.Memory.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\System.Net.Http.Formatting.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\System.Numerics.Vectors.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\System.Threading.Tasks.Extensions.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\System.Web.Cors.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\System.Web.Http.Cors.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\System.Web.Http.dll
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\Newtonsoft.Json.Bson.pdb
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\Newtonsoft.Json.Bson.xml
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\System.Buffers.xml
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\System.Memory.xml
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\System.Net.Http.Formatting.xml
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\System.Numerics.Vectors.xml
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\System.Threading.Tasks.Extensions.xml
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\System.Web.Http.xml
+C:\תכנות\ToysManagement\serverSide\Server\Server\bin\System.Web.Http.Cors.xml
